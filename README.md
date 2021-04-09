@@ -2,7 +2,7 @@
 ### English 🔵 ⚪ 🔴 => 
 -- > I'm a 17 year old boy, passionate about programming, especially Python and JavaScript.               
 -- > Currently studying C # and C ++                                                                 
--- > Short enough to create programs in BatScript, on windows, usually associated with fake virus, especially trying to bring laughs and funny rages.
+-- > I really like creating programs in BatScript, on windows, usually associated with fake viruses, mainly trying to bring laughs and funny fury attacks.
 
 
 # Este é o Meu Perfil!
