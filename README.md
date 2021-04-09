@@ -1,8 +1,10 @@
 ### English 🔵 ⚪ 🔴 => 
 -- > I'm a 17 year old boy, passionate about programming, especially Python and JavaScript.
+-- > Currently studying C # and C ++
 
 ### Portuguese 🟢 ⚪ 🟡 =>
 -- > Sou um garoto de 17 anos, apaixonado por programação, em especial as linguagens Python e JavaScript.
+-- > Atualmente estudando C # e C ++
 
 <!--
 **Faolam/Faolam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
