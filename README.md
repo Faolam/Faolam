@@ -1,10 +1,11 @@
-# My profile
+# This is My Profile!
 ### English 🔵 ⚪ 🔴 => 
--- > I'm a 17 year old boy, passionate about programming, especially Python and JavaScript.
+-- > I'm a 17 year old boy, passionate about programming, especially Python and JavaScript.               
 -- > Currently studying C # and C ++
 
+# Este é o Meu Perfil!
 ### Portuguese 🟢 ⚪ 🟡 =>
--- > Sou um garoto de 17 anos, apaixonado por programação, em especial as linguagens Python e JavaScript.
+-- > Sou um garoto de 17 anos, apaixonado por programação, em especial as linguagens Python e JavaScript.         
 -- > Atualmente estudando C # e C ++
 
 <!--
