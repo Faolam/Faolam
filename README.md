@@ -1,6 +1,6 @@
 # This is My Profile! 🐐
 ### English 🔵 ⚪ 🔴 => 
--- > I'm a 17 year old boy, passionate about programming, especially Python and JavaScript.               
+-- > I'm a 18 year old boy, passionate about programming, especially Python and JavaScript.               
 -- > Currently studying C # and C ++                                                                 
 -- > I really like creating programs in BatScript, on windows, usually associated with fake viruses, mainly trying to bring laughs and funny fury attacks.         
 -- > I also like to create Scripts in Sh on Linux. Make my developments more and more dynamic.                                                       
