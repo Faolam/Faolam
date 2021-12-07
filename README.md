@@ -7,7 +7,7 @@
 
 # Este é o Meu Perfil! 🐐
 ### Portuguese 🟢 ⚪ 🟡 =>
--- > Sou um garoto de 17 anos, apaixonado por programação, em especial as linguagens Python e JavaScript.         
+-- > Sou um garoto de 18 anos, apaixonado por programação, em especial as linguagens Python e JavaScript.         
 -- > Atualmente estudando C # e C ++                                                                                  
 -- > Curto o suficiente para criar programas em BatScript, no windows, geralmente associados a vírus falsos, principalmente tentando trazer risos e ataques de fúria engraçados.                                  
 -- > Também gosto de criar scripts em Sh no Linux. Tornar meus desenvolvimentos cada vez mais dinâmicos.
