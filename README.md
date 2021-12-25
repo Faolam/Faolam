@@ -1,5 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap&color=%23EBF71F&size=30&lines=%E2%9C%8C+Me+Chamo+Pedro+Henrique)](https://git.io/typing-svg)
 
+## 👔 Mais Sobre Mim
+- Adoro Codar!
+- Sou um `programador Junior`.
+- Desenvolvedor `Web e de Bots`.
+- Curto musicas `Eletrônicas` e `Lofi Hip Hop`.
+
 <div>
 <a href="https://github.com/Faolam">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Faolam&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
