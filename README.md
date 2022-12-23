@@ -1,9 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Asap&color=%23EBF71F&size=30&lines=%E2%9C%8C+Me+Chamo+Pedro+Henrique)](https://git.io/typing-svg)
 
 ## 👔 Mais Sobre Mim
-- Adoro Codar!
-- Sou um `programador Junior`.
+- Faço faculdade de `Computação`.
 - Desenvolvedor `Web e de Bots`.
+- Programador `Ts, Js, Py, Rb, C, C++`.
 - Curto musicas `Eletrônicas` e `Lofi Hip Hop`.
 
 <div>
